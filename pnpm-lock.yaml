@@ -27,20 +27,20 @@ dependencies:
     specifier: ^5.4.0
     version: 5.4.0(@capacitor/core@5.4.0)
   '@capacitor/app':
-    specifier: ^4.1.1
-    version: 4.1.1(@capacitor/core@5.4.0)
+    specifier: ^5.0.6
+    version: 5.0.6(@capacitor/core@5.4.0)
   '@capacitor/core':
     specifier: ^5.4.0
     version: 5.4.0
   '@capacitor/haptics':
-    specifier: ^4.1.0
-    version: 4.1.0(@capacitor/core@5.4.0)
+    specifier: ^5.0.6
+    version: 5.0.6(@capacitor/core@5.4.0)
   '@capacitor/keyboard':
-    specifier: ^4.1.1
-    version: 4.1.1(@capacitor/core@5.4.0)
+    specifier: ^5.0.6
+    version: 5.0.6(@capacitor/core@5.4.0)
   '@capacitor/status-bar':
-    specifier: ^4.1.1
-    version: 4.1.1(@capacitor/core@5.4.0)
+    specifier: ^5.0.6
+    version: 5.0.6(@capacitor/core@5.4.0)
   '@ionic/angular':
     specifier: ^6.7.5
     version: 6.7.5(@angular/core@16.2.5)(@angular/forms@16.2.5)(@angular/router@16.2.5)(rxjs@6.6.7)(zone.js@0.13.3)
@@ -1941,10 +1941,10 @@ packages:
       '@capacitor/core': 5.4.0
     dev: false
 
-  /@capacitor/app@4.1.1(@capacitor/core@5.4.0):
-    resolution: {integrity: sha512-SJcJA1rhFQyeH6eLfUEbdKkHzAwzahJNVPNXmU88fdmXpMgM2dJGzZj1vrm6e21aQq+Z4aBVLJ2RCdj92zD7wg==}
+  /@capacitor/app@5.0.6(@capacitor/core@5.4.0):
+    resolution: {integrity: sha512-6ZXVdnNmaYILasC/RjQw+yfTmq2ZO7Q3v5lFcDVfq3PFGnybyYQh+RstBrYri+376OmXOXxBD7E6UxBhrMzXGA==}
     peerDependencies:
-      '@capacitor/core': ^4.0.0
+      '@capacitor/core': ^5.0.0
     dependencies:
       '@capacitor/core': 5.4.0
     dev: false
@@ -1981,26 +1981,26 @@ packages:
       tslib: 2.6.2
     dev: false
 
-  /@capacitor/haptics@4.1.0(@capacitor/core@5.4.0):
-    resolution: {integrity: sha512-gAIFy50e1VZPdokRFLkl8Y+yZYB3e4brd5yu9DRShbWbheruwU34TxtG5C1NANvq4mbXd3tMXzBi59Q5JFyTHA==}
+  /@capacitor/haptics@5.0.6(@capacitor/core@5.4.0):
+    resolution: {integrity: sha512-UrMcR7p2X10ql4VLlowUuH/VckTeu0lj+RQpekxox14uxDmu5AGIFDK/iDTi8W6QZkxTJRZK6sbCjgwYgNJ7Pw==}
     peerDependencies:
-      '@capacitor/core': ^4.0.0
+      '@capacitor/core': ^5.0.0
     dependencies:
       '@capacitor/core': 5.4.0
     dev: false
 
-  /@capacitor/keyboard@4.1.1(@capacitor/core@5.4.0):
-    resolution: {integrity: sha512-fdC7u2TeG4BqwC0LnPnhOdya31C4QKdhk/8pc5lxI9X5jyYAetMCN1kEkKa7KREw4DdzXotJt27B9BXxAza6og==}
+  /@capacitor/keyboard@5.0.6(@capacitor/core@5.4.0):
+    resolution: {integrity: sha512-9GewAa/y2Hwkdw/Be8MTdiAjrFZ7TPDKpR44M0Y/0QMnK+mBbgzcoZ/UkuumWv6e2F1IAI+VY5eYVQHDeZcRoA==}
     peerDependencies:
-      '@capacitor/core': ^4.0.0
+      '@capacitor/core': ^5.0.0
     dependencies:
       '@capacitor/core': 5.4.0
     dev: false
 
-  /@capacitor/status-bar@4.1.1(@capacitor/core@5.4.0):
-    resolution: {integrity: sha512-3wosxMD1XuIFz88+c2GdVEHSJV6u7suOeKQjyWf3zf9eFr622Sg+udZqDbC0dtTWXw97BWyCjv3r1EYJw7XnIA==}
+  /@capacitor/status-bar@5.0.6(@capacitor/core@5.4.0):
+    resolution: {integrity: sha512-7od8CxsBnot1XMK3IeOkproFL4hgoKoWAc3pwUvmDOkQsXoxwQm4SR9mLwQavv1XfxtHbFV9Ukd7FwMxOPSViw==}
     peerDependencies:
-      '@capacitor/core': ^4.0.0
+      '@capacitor/core': ^5.0.0
     dependencies:
       '@capacitor/core': 5.4.0
     dev: false
